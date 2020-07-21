@@ -3,7 +3,7 @@ from PIL import ImageFont
 from PIL import ImageDraw
 
 
-original_img = "/home/marco/Pictures/batman.png"
+original_img = "batman.png"
 output_img = "meme-batman.png"
 
 robin_text = "Vai estudar o \n past simple"
